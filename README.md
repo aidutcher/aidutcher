@@ -17,7 +17,7 @@ My hobby work involves database development, ETL, and cloud data warehousing wit
 - Data Analysis
 - Data Visualization
 
-#### **Reading List**
+#### **2022 Reading List**
 
 - [ ] Storytelling With Data by Cole Nussbaumer Knaflic
 - [ ] Navigating the Labyrinth: An Executive Guide to Data Management by Laura Sebastian-Coleman
