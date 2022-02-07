@@ -21,6 +21,7 @@ My hobby work involves database development, ETL, and cloud data warehousing wit
 
 - [ ] Storytelling With Data by Cole Nussbaumer Knaflic
 - [ ] Navigating the Labyrinth: An Executive Guide to Data Management by Laura Sebastian-Coleman
+- [ ] Effective Pandas: Patterns for Data Manipulation by Matt Harrison
 - [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
 
 <!--
