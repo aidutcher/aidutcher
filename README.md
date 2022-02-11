@@ -6,8 +6,7 @@ My main interests are data analysis and data engineering.  You'll find repositor
 
 My professional work mainly involves data analysis in SQL, which I'm attempting to replicate with Microsoft's Adventure Works database.  I'm hoping to build that repository up to serve as an example to new analysts who want to see the kinds of problems we have to solve on a day-to-day basis.  For any fellow analysts who have suggestions, please let me know!  I'm always on the lookout for ways to improve.  
 
-My hobby work involves database development, ETL, and cloud data warehousing with the goal of becoming a data engineer.  
-
+My hobby work involves database development, ETL, and cloud data warehousing.
 
 #### **Skills**
 - SQL
