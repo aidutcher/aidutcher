@@ -2,9 +2,7 @@
 
 Welcome to my profile!  Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alec-dutcher-650b36124/) as well, or my [blog](https://dev.to/aidutcher) on dev.to where I post notes and study materials related to what I'm learning.
 
-My main interests are data analysis and data engineering.  You'll find repositories here related to those topics as well as the occasional goofy side project, like auto-random-pointilism, which just makes random asbtract images in MS Paint.  
-
-My professional work mainly involves data analysis in SQL, which I'm attempting to replicate with Microsoft's Adventure Works database.  I'm hoping to build that repository up to serve as an example to new analysts who want to see the kinds of problems we have to solve on a day-to-day basis.  For any fellow analysts who have suggestions, please let me know!  I'm always on the lookout for ways to improve.  
+My main interests are analytics engineering and data engineering.  You'll find repositories here related to those topics as well as the occasional goofy side project, like auto-random-pointilism, which just makes random asbtract images in MS Paint.  
 
 My hobby work involves database development, ETL, and cloud data warehousing.
 
@@ -30,13 +28,13 @@ My hobby work involves database development, ETL, and cloud data warehousing.
   - Exploratory data analysis
   - Descriptive and inferential statistics
   - Defining and measuring KPIs 
+- Docker
 
 #### **Currently Learning**
 
-- SQL: query optimization
-- AWS: IAM, S3, Lambda, Glue, CDK
-- Python: error handling, infrastructure as code
-- Tableau: creating visualizations
+- Docker
+- Spark with PySpark
+- Azure Databricks
 
 #### **2022 Reading List**
 
