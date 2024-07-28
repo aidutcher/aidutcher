@@ -2,9 +2,7 @@
 
 Welcome to my profile!  Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alec-dutcher-650b36124/) as well, or my [blog](https://dev.to/aidutcher) on dev.to where I post notes and study materials related to what I'm learning.
 
-My main interests are analytics engineering and data engineering.  You'll find repositories here related to those topics as well as the occasional goofy side project, like auto-random-pointilism, which just makes random asbtract images in MS Paint.  
-
-My hobby work involves database development, ETL, and cloud data warehousing.
+My main interests are analytics engineering and data engineering. My hobby work involves database development, ETL, and cloud data warehousing.
 
 #### **Skills**
 - SQL
@@ -29,19 +27,12 @@ My hobby work involves database development, ETL, and cloud data warehousing.
   - Descriptive and inferential statistics
   - Defining and measuring KPIs 
 - Docker
+- Azure
+  - Building and maintaining Azure Data Factory Pipelines
+  - Creating and managing Azure storage accounts and containers
+- Databricks
 
-#### **Currently Learning**
 
-- Docker
-- Spark with PySpark
-- Azure Databricks
-
-#### **2022 Reading List**
-
-- [ ] Storytelling With Data by Cole Nussbaumer Knaflic
-- [x] Navigating the Labyrinth: An Executive Guide to Data Management by Laura Sebastian-Coleman
-- [ ] Effective Pandas: Patterns for Data Manipulation by Matt Harrison
-- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
 
 <!--
 **aidutcher/aidutcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
