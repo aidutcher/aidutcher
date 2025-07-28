@@ -1,6 +1,6 @@
 ## Hail and well-met, friend! 👋
 
-Welcome to my profile!  Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alec-dutcher-650b36124/) as well, or my [blog](https://dev.to/aidutcher) on dev.to where I post notes and study materials related to what I'm learning.
+Welcome to my profile!  Feel free to connect on [LinkedIn](https://www.linkedin.com/in/alec-dutcher-650b36124/) as well!
 
 My main interests are analytics engineering and data engineering. My hobby work involves database development, ETL, and cloud data warehousing.
 
